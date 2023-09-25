@@ -1,0 +1,123 @@
+[
+    {
+      "id": 1,
+      "title": "Clean Water Filter",
+      "category": "Health",
+      "description": "Provide clean and safe drinking water for children in need.",
+      "price": 25,
+      "image": "https://i.ibb.co/HT7RDRp/Rectangle-4284.png",
+      "bgColor": "#D9E5FF",
+      "color": "#0052FF"
+    },
+    {
+      "id": 2,
+      "title": "Educational Scholarship",
+      "category": "Education",
+      "description": "Support quality education initiatives for underprivileged students.",
+      "price": 35,
+      "image": "https://i.ibb.co/1fh5XqX/Education.png",
+      "bgColor": "#FF444A",
+      "color": "#FF444A"
+    },
+    {
+      "id": 3,
+      "title": "Clothing Donation Drive",
+      "category": "Clothing",
+      "description": "Collect and distribute used clothing to those in need.",
+      "price": 15,
+      "image": "https://i.ibb.co/R4rc6ZP/Clothing.png",
+      "bgColor": "#79C23F",
+      "color": "#79C23F"
+    },
+    {
+      "id": 4,
+      "title": "Nutritious Meal Program",
+      "category": "Food",
+      "description": "Provide nutritious and affordable food options for all.",
+      "price": 19,
+      "image": "https://i.ibb.co/85RWth2/Food.png",
+      "bgColor": "#F87147",
+      "color": "#F87147"
+    },
+    {
+      "id": 5,
+      "title": "Food Security Initiative",
+      "category": "Food",
+      "description": "Support initiatives for improved access to quality food.",
+      "price": 18,
+      "image": "https://i.ibb.co/85RWth2/Food.png",
+      "bgColor": "#F87147",
+      "color": "#F87147"
+    },
+    {
+      "id": 6,
+      "title": "Warm Clothing Drive",
+      "category": "Clothing",
+      "description": "Help clothe those in need by donating warm clothing.",
+      "price": 12,
+      "image": "https://i.ibb.co/YBjSp3j/c2.png",
+      "bgColor": "#79C23F",
+      "color": "#79C23F"
+    },
+    {
+      "id": 7,
+      "title": "Healthcare for Children",
+      "category": "Health",
+      "description": "Ensure access to healthcare services for children in need.",
+      "price": 22,
+      "image": "https://i.ibb.co/VHK1CN0/h2.jpg",
+      "bgColor": "#D9E5FF",
+      "color": "#0052FF"
+    },
+    {
+      "id": 8,
+      "title": "Clean Water Initiative",
+      "category": "Health",
+      "description": "Support initiatives to provide clean water for children.",
+      "price": 27,
+      "image": "https://i.ibb.co/SJWzjmz/h3.png",
+      "bgColor": "#D9E5FF",
+      "color": "#0052FF"
+    },
+    {
+      "id": 9,
+      "title": "Quality Education Support",
+      "category": "Education",
+      "description": "https://i.ibb.co/chHxvBk/e2.png",
+      "price": 33,
+      "image": "https://i.ibb.co/1fh5XqX/Education.png",
+      "bgColor": "#FF444A",
+      "color": "#FF444A"
+    },
+    {
+      "id": 10,
+      "title": "Clothing for All",
+      "category": "Clothing",
+      "description": "Provide clothing to those in need regardless of age or size.",
+      "price": 14,
+      "image": "https://i.ibb.co/R4rc6ZP/Clothing.png",
+      "bgColor": "#79C23F",
+      "color": "#79C23F"
+    },
+    {
+      "id": 11,
+      "title": "Community Food Program",
+      "category": "Food",
+      "description": "Support community-based programs for food security.",
+      "price": 17,
+      "image": "https://i.ibb.co/3TjdMpv/c3.png",
+      "bgColor": "#F87147",
+      "color": "#F87147"
+    },
+    {
+      "id": 12,
+      "title": "Education Access Fund",
+      "category": "Education",
+      "description": "Provide financial assistance for education access.",
+      "price": 30,
+      "image": "https://i.ibb.co/3d39K6W/e3.png",
+      "bgColor": "#FF444A",
+      "color": "#FF444A"
+    }
+  ]
+  

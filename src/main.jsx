@@ -10,6 +10,8 @@ import Donation from './components/Donation';
 import Stats from './Stats';
 import Root from './Root';
 import Home from './components/Home';
+import Details from './components/Details/Details';
+import ShowDonation from './components/ShowDonation';
 
 const router = createBrowserRouter([
   {
@@ -27,10 +29,21 @@ const router = createBrowserRouter([
       {
         path: "/donation",
         element: <Donation></Donation>,
+        loader:()=> fetch('../info.json'),
       },
       {
         path: "/state",
         element: <Stats></Stats>,
+      },
+      {
+        path: "/details/:id",
+        element: <Details></Details>,
+        loader: ()=> fetch('../info.json'),
+      },
+      {
+        path: "/details/:id",
+        element: <ShowDonation></ShowDonation>,
+        
       },
     ],
   },

@@ -1,123 +1,134 @@
 [
-    {
-      "id": 1,
-      "title": "Clean Water Filter",
-      "category": "Health",
-      "description": "Provide clean and safe drinking water for children in need.",
-      "price": 25,
-      "image": "https://i.ibb.co/HT7RDRp/Rectangle-4284.png",
-      "bgColor": "#D9E5FF",
-      "color": "#0052FF"
-    },
-    {
-      "id": 2,
-      "title": "Educational Scholarship",
-      "category": "Education",
-      "description": "Support quality education initiatives for underprivileged students.",
-      "price": 35,
-      "image": "https://i.ibb.co/1fh5XqX/Education.png",
-      "bgColor": "#FF444A",
-      "color": "#FF444A"
-    },
-    {
-      "id": 3,
-      "title": "Clothing Donation Drive",
-      "category": "Clothing",
-      "description": "Collect and distribute used clothing to those in need.",
-      "price": 15,
-      "image": "https://i.ibb.co/R4rc6ZP/Clothing.png",
-      "bgColor": "#79C23F",
-      "color": "#79C23F"
-    },
-    {
-      "id": 4,
-      "title": "Nutritious Meal Program",
-      "category": "Food",
-      "description": "Provide nutritious and affordable food options for all.",
-      "price": 19,
-      "image": "https://i.ibb.co/85RWth2/Food.png",
-      "bgColor": "#F87147",
-      "color": "#F87147"
-    },
-    {
-      "id": 5,
-      "title": "Food Security Initiative",
-      "category": "Food",
-      "description": "Support initiatives for improved access to quality food.",
-      "price": 18,
-      "image": "https://i.ibb.co/85RWth2/Food.png",
-      "bgColor": "#F87147",
-      "color": "#F87147"
-    },
-    {
-      "id": 6,
-      "title": "Warm Clothing Drive",
-      "category": "Clothing",
-      "description": "Help clothe those in need by donating warm clothing.",
-      "price": 12,
-      "image": "https://i.ibb.co/YBjSp3j/c2.png",
-      "bgColor": "#79C23F",
-      "color": "#79C23F"
-    },
-    {
-      "id": 7,
-      "title": "Healthcare for Children",
-      "category": "Health",
-      "description": "Ensure access to healthcare services for children in need.",
-      "price": 22,
-      "image": "https://i.ibb.co/VHK1CN0/h2.jpg",
-      "bgColor": "#D9E5FF",
-      "color": "#0052FF"
-    },
-    {
-      "id": 8,
-      "title": "Clean Water Initiative",
-      "category": "Health",
-      "description": "Support initiatives to provide clean water for children.",
-      "price": 27,
-      "image": "https://i.ibb.co/SJWzjmz/h3.png",
-      "bgColor": "#D9E5FF",
-      "color": "#0052FF"
-    },
-    {
-      "id": 9,
-      "title": "Quality Education Support",
-      "category": "Education",
-      "description": "https://i.ibb.co/chHxvBk/e2.png",
-      "price": 33,
-      "image": "https://i.ibb.co/1fh5XqX/Education.png",
-      "bgColor": "#FF444A",
-      "color": "#FF444A"
-    },
-    {
-      "id": 10,
-      "title": "Clothing for All",
-      "category": "Clothing",
-      "description": "Provide clothing to those in need regardless of age or size.",
-      "price": 14,
-      "image": "https://i.ibb.co/R4rc6ZP/Clothing.png",
-      "bgColor": "#79C23F",
-      "color": "#79C23F"
-    },
-    {
-      "id": 11,
-      "title": "Community Food Program",
-      "category": "Food",
-      "description": "Support community-based programs for food security.",
-      "price": 17,
-      "image": "https://i.ibb.co/3TjdMpv/c3.png",
-      "bgColor": "#F87147",
-      "color": "#F87147"
-    },
-    {
-      "id": 12,
-      "title": "Education Access Fund",
-      "category": "Education",
-      "description": "Provide financial assistance for education access.",
-      "price": 30,
-      "image": "https://i.ibb.co/3d39K6W/e3.png",
-      "bgColor": "#FF444A",
-      "color": "#FF444A"
-    }
-  ]
-  
+  {
+    "id": 1,
+    "title": "Clean Water Filter",
+    "category": "Health",
+    "description": "Provide clean and safe drinking water for children in need. Your donation will help us install water filtration systems in communities that lack access to clean water sources. Access to clean water is a fundamental right, and your support can make a significant difference in the lives of children and families in these areas.",
+    "price": 25,
+    "image": "https://i.ibb.co/yQfsQ1Y/Health.png",
+    "bgColor": "#D9E5FF",
+    "color": "#0052FF",
+    "btnColor": "#AEC8FF"
+  },
+  {
+    "id": 2,
+    "title": "Educational Scholarship",
+    "category": "Education",
+    "description": "Support quality education initiatives for underprivileged students. Your donation will provide scholarships to deserving students who are eager to pursue their dreams but lack the financial means to do so. Education is the key to a brighter future, and your support can empower these students to achieve their goals.",
+    "price": 35,
+    "image": "https://i.ibb.co/1fh5XqX/Education.png",
+    "bgColor": "#FFE3E4",
+    "color": "#FF444A",
+    "btnColor": "#FFC3C5"
+  },
+  {
+    "id": 3,
+    "title": "Clothing Donation Drive",
+    "category": "Clothing",
+    "description": "Collect and distribute used clothing to those in need. Your donation will help us gather gently used clothing items and distribute them to individuals and families who are struggling to stay warm during the cold months. Your generosity can provide warmth and comfort to those less fortunate.",
+    "price": 15,
+    "image": "https://i.ibb.co/R4rc6ZP/Clothing.png",
+    "bgColor": "#EBF6E2",
+    "color": "#79C23F",
+    "btnColor": "#D4ECC1"
+  },
+  {
+    "id": 4,
+    "title": "Nutritious Meal Program",
+    "category": "Food",
+    "description": "Provide nutritious and affordable food options for all. Your donation will support our efforts to provide healthy meals to individuals and families facing food insecurity. Together, we can ensure that no one goes to bed hungry.",
+    "price": 19,
+    "image": "https://i.ibb.co/85RWth2/Food.png",
+    "bgColor": "#FEEAE3",
+    "color": "#F87147",
+    "btnColor": "#FDD2C4"
+  },
+  {
+    "id": 5,
+    "title": "Food Security Initiative",
+    "category": "Food",
+    "description": "Support initiatives for improved access to quality food. Your donation will help us implement programs that increase food security and ensure that vulnerable populations have access to nutritious meals. Your support can change lives.",
+    "price": 18,
+    "image": "https://i.ibb.co/85RWth2/Food.png",
+    "bgColor": "#FEEAE3",
+    "color": "#F87147",
+    "btnColor": "#FDD2C4"
+  },
+  {
+    "id": 6,
+    "title": "Warm Clothing Drive",
+    "category": "Clothing",
+    "description": "Help clothe those in need by donating warm clothing. Your donation will enable us to collect and distribute warm clothing items to individuals experiencing the cold winter months without proper attire. Your kindness can bring warmth to their lives.",
+    "price": 12,
+    "image": "https://i.ibb.co/YBjSp3j/c2.png",
+    "bgColor": "#EBF6E2",
+    "color": "#79C23F",
+    "btnColor": "#D4ECC1"
+  },
+  {
+    "id": 7,
+    "title": "Healthcare for Children",
+    "category": "Health",
+    "description": "Ensure access to healthcare services for children in need. Your donation will support our efforts to provide medical care and essential healthcare services to children who lack access to quality healthcare. Together, we can give them a healthier future.",
+    "price": 22,
+    "image": "https://i.ibb.co/VHK1CN0/h2.jpg",
+    "bgColor": "#D9E5FF",
+    "color": "#0052FF",
+    "btnColor": "#AEC8FF"
+  },
+  {
+    "id": 8,
+    "title": "Clean Water Initiative",
+    "category": "Health",
+    "description": "Support initiatives to provide clean water for children. Your donation will help us implement clean water initiatives, ensuring that children have access to safe and clean drinking water. Your support can improve their health and well-being.",
+    "price": 27,
+    "image": "https://i.ibb.co/SJWzjmz/h3.png",
+    "bgColor": "#D9E5FF",
+    "color": "#0052FF",
+    "btnColor": "#AEC8FF"
+  },
+  {
+    "id": 9,
+    "title": "Quality Education Support",
+    "category": "Education",
+    "description": "Provide financial assistance for education access. Your donation will enable us to provide financial support and resources to students who face barriers to quality education. Education is a powerful tool for transformation, and your contribution can make it accessible to all.",
+    "price": 33,
+    "image": "https://i.ibb.co/1fh5XqX/Education.png",
+    "bgColor": "#FFE3E4",
+    "color": "#FF444A",
+    "btnColor": "#FFC3C5"
+  },
+  {
+    "id": 10,
+    "title": "Clothing for All",
+    "category": "Clothing",
+    "description": "Provide clothing to those in need regardless of age or size. Your donation will support our mission to provide clothing to individuals of all ages and sizes who lack appropriate attire. Your generosity can help boost their confidence and dignity.",
+    "price": 14,
+    "image": "https://i.ibb.co/R4rc6ZP/Clothing.png",
+    "bgColor": "#EBF6E2",
+    "color": "#79C23F",
+    "btnColor": "#D4ECC1"
+  },
+  {
+    "id": 11,
+    "title": "Community Food Program",
+    "category": "Food",
+    "description": "Support community-based programs for food security. Your donation will enable us to implement community-focused programs that tackle food insecurity at the local level. Your support can strengthen communities and ensure access to nutritious food for all.",
+    "price": 17,
+    "image": "https://i.ibb.co/3TjdMpv/c3.png",
+    "bgColor": "#FEEAE3",
+    "color": "#F87147",
+    "btnColor": "#FDD2C4"
+  },
+  {
+    "id": 12,
+    "title": "Education Access Fund",
+    "category": "Education",
+    "description": "Provide financial assistance for education access. Your donation will contribute to our Education Access Fund, which provides financial assistance to students seeking higher education. Your support can open doors to new opportunities and brighter futures.",
+    "price": 30,
+    "image": "https://i.ibb.co/3d39K6W/e3.png",
+    "bgColor": "#FFE3E4",
+    "color": "#FF444A",
+    "btnColor": "#FFC3C5"
+  }
+]

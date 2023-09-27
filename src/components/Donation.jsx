@@ -30,7 +30,7 @@ const [seeMore, setSeeMore]=useState(false)
         <div>
             {receivedDonation.length > 4 && <button onClick={()=> setSeeMore(!seeMore)} className="btn btn-primary w-[100px] block mx-auto mt-10">{ seeMore? 'See less': 'See More'}</button>}
         </div>
-        <Stats receivedDonation={receivedDonation} ></Stats>
+      
     </div>
   );
 };

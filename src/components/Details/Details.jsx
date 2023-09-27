@@ -1,5 +1,7 @@
 import { useLoaderData, useParams } from "react-router-dom";
 import { setStoredData } from "./store";
+import { ToastContainer, toast } from 'react-toastify';
+import 'react-toastify/dist/ReactToastify.css';
 
 
 const Details = () => {
@@ -10,6 +12,8 @@ const Details = () => {
   
     function handleDonation() {
       setStoredData(idInt);
+      const notify = () => toast("Your donation have been accepted, thank you");
+      notify()
     }
   
     return (
@@ -29,6 +33,7 @@ const Details = () => {
           <h2 className="text-[#0B0B0B] text-4xl font-bold mb-6 text-[16px]">{card.title}</h2>
           <p>{card.description}</p>
         </div>
+        <ToastContainer />
       </div>
     );
   };

@@ -1,3 +1,4 @@
+import { Link } from "react-router-dom";
 
 
 const ShowDonation = ({item}) => {
@@ -12,7 +13,7 @@ const ShowDonation = ({item}) => {
                 <h2 className="card-title text-[#0B0B0B] text-[24px] font-semibold">{item.title}</h2>
                  <p style={{ color: item.color }}>${item.price}</p>
               <div className="card-actions">
-                <button style={{backgroundColor: item.color, color:"white" }} className="btn btn-primary">View Details </button>
+                <Link ><button style={{backgroundColor: item.color, color:"white" }} className="btn btn-primary">View Details </button></Link>
               </div>
              </div>
             </div>
